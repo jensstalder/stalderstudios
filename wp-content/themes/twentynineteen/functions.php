@@ -1,4 +1,7 @@
 <?php
+
+die('hello world');
+
 /**
  * Twenty Nineteen functions and definitions
  *

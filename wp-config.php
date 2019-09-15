@@ -20,13 +20,13 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'local' );
+define( 'DB_NAME', 'stalderstudios' );
 
 /** MySQL database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'stalderstudios' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'root' );
+define( 'DB_PASSWORD', 'awGPpuvEDJ4E' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
@@ -61,7 +61,7 @@ define('NONCE_SALT',       'oQl6TJCpDn3gbirhkNMM8pm6rEroh6w0WHTi3OesFQl0m3LRMcsc
  * You can have multiple installations in one database if you give each
  * a unique prefix. Only numbers, letters, and underscores please!
  */
-$table_prefix = 'wp_';
+$table_prefix = 'ss_';
 
 
 
